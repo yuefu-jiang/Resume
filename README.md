@@ -1,11 +1,30 @@
 # Yuefu Jiang
-# Contact Information
+## Contact Information
  - Tel: 412-709-8256
  - e-mail: albertajiang@gmail.com
  - Address: 3671 Peacock Ct, Apt 4, Santa Clara, CA 95051 
- 
+# Technical Skills
+#### Programming Languages
+- Python, R and Java fluent. Ability to utilize perl libraries and packages into working scripts.
+#### Library and Packages 
+- Visualization: Matplotlib, ggplot, seaborn, etc. 
+- Data handling and mining: pandas, numpy, scipy, dplyr, tidyverse
+- Statistical and machine learning packages: glm, scikit-learn, tensorflow
+#### Cloud Computing
+- AWS suite: ec2 instances and S3 buckets. Boto3 api.
+#### Docker
+- Container Images: build maintain and run
+#### Bioinformatic tools and algorithms
+- BLAST, BLAT;
+- Broad toolsets (e.g. GATK, Picard), 
+- bedtools 
+- samtools
+- Variant Effect Predictor (VEP)
+#### Data Bases
+- mysql, sqlite, mongodb
+#### Project management
+- Git
 # Experience
-
 ## Bioinformatic Analyst at *Cellmax Life*: Feb 2019 - Current
 #### Create, improve, and run analysis pipelines and workflows to identify clinically relevant genetic mutations from genomic sequencing data ####
 - With practice of cloud computing (AWS suite), encooperate and implement bioinformatics tools into the analysis pipeline. Analyze and review genome sequencing results for patient data with clinical ramifications; create and maintain databases for tracking quality data and results. Troubleshooting analysis pipeline and tools errors that occur in production pipelines.
@@ -15,6 +34,9 @@
 - Under CAP lab regulations, deliver variant calling results and QC designated report format. Write SOPs and validation reports for regulatory documentation for bioinformatics processes and results.
 
 ## Research Assistant at *Vascular Medicine Institute, University of Pittsburgh, Brett A. Kaufman Lab*: APR 2015 – APR 2018
-#### Research Projects on pathways of mitochonrdia activities in relation of diseases
+#### Research projects on pathways of mitochonrdia activities in relation of diseases
 - Conduct independent research on relationships between vascular disease and mitochondrial genomes. Multiple bench-top workflows conducted independently. Operate/program TECAN robotics. Regular scientific presentations were given to peer scientists for progress updates. Independent projects with bioinformatic development and analysis.
 - **Publication**: Aggressive triple negative breast cancers have unique molecular signature on the basis of mitochondrial genetic and functional defects. Biochim Biophys Acta. 2018 Apr.
+# Education
+## Bachelor of Science in Bioinformatics | University of Pittsburgh: Graduated December 2018
+- **Related coursework**: Bioinformatics Software Design, Applied Regression, Immunology, Analytical Chemistry, Algorithm implementation, Language of Web Applications, Software Quality Control, Biostatistics, Genomics, Software Engineering in Bioinformatics. 
