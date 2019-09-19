@@ -6,7 +6,7 @@
  
 # Experience
 
-## Bioinformatic Analyst at Cellmax Life: Feb 2019 - Current
+## Bioinformatic Analyst at *Cellmax Life*: Feb 2019 - Current
 #### Create, improve, and run analysis pipelines and workflows to identify clinically relevant genetic mutations from genomic sequencing data ####
 - With practice of cloud computing (AWS suite), encooperate and implement bioinformatics tools into the analysis pipeline. Analyze and review genome sequencing results for patient data with clinical ramifications; create and maintain databases for tracking quality data and results. Troubleshooting analysis pipeline and tools errors that occur in production pipelines.
 #### Assist assay developement with bioinformatics analysis: R&D projects ####
@@ -14,7 +14,7 @@
 #### Report production of clinically/commercially validated assay #### 
 - Under CAP lab regulations, deliver variant calling results and QC designated report format. Write SOPs and validation reports for regulatory documentation for bioinformatics processes and results.
 
-## Research Assistant at Vascular Medicine Institute, University of Pittsburgh, Brett A. Kaufman Lab: APR 2015 – APR 2018
+## Research Assistant at *Vascular Medicine Institute, University of Pittsburgh, Brett A. Kaufman Lab*: APR 2015 – APR 2018
 #### Research Projects on pathways of mitochonrdia activities in relation of diseases
 - Conduct independent research on relationships between vascular disease and mitochondrial genomes. Multiple bench-top workflows conducted independently. Operate/program TECAN robotics. Regular scientific presentations were given to peer scientists for progress updates. Independent projects with bioinformatic development and analysis.
 - **Publication**: Aggressive triple negative breast cancers have unique molecular signature on the basis of mitochondrial genetic and functional defects. Biochim Biophys Acta. 2018 Apr.
