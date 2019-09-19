@@ -5,25 +5,28 @@
  - Address: 3671 Peacock Ct, Apt 4, Santa Clara, CA 95051 
 # Technical Skills
 #### Programming Languages
-- Python, R and Java fluent. Ability to utilize perl libraries and packages into working scripts.
+- `Python`, `R` and `Java` fluent. Ability to utilize `perl` libraries and packages into working scripts.
 #### Library and Packages 
-- Visualization: Matplotlib, ggplot, seaborn, etc. 
-- Data handling and mining: pandas, numpy, scipy, dplyr, tidyverse
-- Statistical and machine learning packages: glm, scikit-learn, tensorflow
+- Visualization: `Matplotlib`, `ggplot`, `seaborn`, etc. 
+- Data handling and mining: `pandas`, `numpy`, `scipy`, `dplyr`, `tidyverse`
+- Statistical and machine learning packages: `glm`, `scikit-learn`, `tensorflow`
 #### Cloud Computing
-- AWS suite: ec2 instances and S3 buckets. Boto3 api.
+- AWS suite: maintainance and operations through Boto3 API.
 #### Docker
 - Container Images: build maintain and run
 #### Bioinformatic tools and algorithms
-- BLAST, BLAT;
-- Broad toolsets (e.g. GATK, Picard), 
-- bedtools 
-- samtools
+- BLAST, BLAT
+- Broad toolsets (e.g. GATK, Picard) 
+- bedtools and samtools
 - Variant Effect Predictor (VEP)
 #### Data Bases
-- mysql, sqlite, mongodb
+- `mysql`, `sqlite`, `mongodb`
 #### Project management
 - Git
+#### Wetlab
+- Nucleid Acid handling: PCR, qRT-PCR, NGS processing, Digital PCR
+- CRISPR/CAS9: designing gDNAs
+- Cell culture: long-term preservation, transfection, microscopy and imaging
 # Experience
 ## Bioinformatic Analyst at *Cellmax Life*: Feb 2019 - Current
 #### Create, improve, and run analysis pipelines and workflows to identify clinically relevant genetic mutations from genomic sequencing data ####
